@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Create Next App</title>
+        <title>Steve Lanier - The Man, The Myth, The Website</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -54,7 +54,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
+          Built with NEXTjs
           <img src="/vercel.svg" alt="Vercel Logo" className="logo" />
         </a>
       </footer>
